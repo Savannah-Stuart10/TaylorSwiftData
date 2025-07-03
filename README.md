@@ -1,4 +1,5 @@
 I'm just a girl tryna find a place in this world.
+
 Honestly, I just wanted to make a few things code-related and thought I could do it with Taylor Swift data. 
 
 For future projects, I'm interested in using spotify or apple music data to populate a list of top-played TS music
